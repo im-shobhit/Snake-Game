@@ -68,13 +68,13 @@ python snake.py
 ---
 
 ### Project Structure
-
+```
 snake-game/
 ├── highscore.txt    # Created automatically to store scores
 ├── snake.py         # Main game script
 ├── README.md        # This documentation
 └── requirements.txt # Dependencies
-
+```
 
    ```bash
    git clone [https://github.com/yourusername/snake-game.git](https://github.com/yourusername/snake-game.git)
